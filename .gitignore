@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Database files - user-generated data
+*.db
+focussuite.db
+tracker.db
+
+# Gamification state - user-generated
+gamification.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build files
+*.spec
+build/
+dist/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
